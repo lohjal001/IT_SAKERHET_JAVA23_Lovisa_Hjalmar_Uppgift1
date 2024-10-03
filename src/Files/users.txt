@@ -1,0 +1,15 @@
+Email: lovisa@email.com
+Hashed password: a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3
+Name: Lovisa Hjalmar
+Adress: Malmögatan 1
+----------------------------
+Email: n.vikberg@email.com
+Hashed password: a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3
+Name: Nikolina
+Adress: Caroligatan 5
+----------------------------
+Email: pelle@plutt.se
+Hashed password: c4289629b08bc4d61411aaa6d6d4a0c3c5f8c1e848e282976e29b6bed5aeedc7
+Name: Pelle Plutt
+Adress: Blåbärsgatan 2, Roterbro
+----------------------------
